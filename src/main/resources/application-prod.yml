@@ -7,7 +7,7 @@ spring:
     contexts: prod
   web:
     resources:
-      static-locations: classpath:/static/,file:/Users/slawek/uploads/
+      static-locations: classpath:/static/,file:/Users/sebastianklimas/uploads/
 app:
   storage:
     location: /Users/sebastianklimas/uploads/ # stworzyć tam foldery /img/ i /files/
